@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1790616977 source:e:\cb_proj\winisowriter\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<commdlg.h>
+	<shobjidl.h>
+	"Writer.h"
+	"GUI.h"
+
+1788625899 source:e:\cb_proj\winisowriter\giu.cpp
+	<iostream>
+	<windows.h>
+	<commdlg.h>
+	<cstdlib>
+
+1794484398 source:e:\cb_proj\winisowriter\writer.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<commdlg.h>
+	<shobjidl.h>
+	<memory>
+	<array>
+	<cstdio>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	"Writer.h"
+	"GUI.h"
+	<thread>
+
+1794479826 source:e:\cb_proj\winisowriter\gui.cpp
+	<iostream>
+	<windows.h>
+	<commdlg.h>
+	<cstdlib>
+	<thread>
+	"Writer.h"
+	"GUI.h"
+	<string>
+	<algorithm>
+
+1791631870 e:\cb_proj\winisowriter\writer.h
+	<string>
+
+1791632213 e:\cb_proj\winisowriter\gui.h
+
