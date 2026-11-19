@@ -9,4 +9,5 @@ GNU GCC Compiler(default for this IDE)
 For open project you need open ".CBP" file.
 
 Before compilation you should add in Project->Build options->Linker settings: add library "comdlg32" in "Link libraries"
-Warning!!!, you need select name project from the left-hand column  "# WinISOWriter" 
+Warning!!!, you need select name project from the left-hand column  "
+# WinISOWriter" 
